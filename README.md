@@ -1,5 +1,5 @@
-# Infostart:Toolkit
-[Infostart: Toolkit (Управляемые инструменты разработчика)](https://infostart.ru/public/1254364/)
+# Infostart Toolkit
+[Infostart Toolkit (Управляемые инструменты разработчика)](https://infostart.ru/public/1254364/)
 
 [![Join telegram chat](https://img.shields.io/badge/chat-telegram-blue?style=flat&logo=telegram)](https://t.me/mid8_1c) 
 [![Last release](https://img.shields.io/github/v/release/infostart-hub/toolkit?include_prereleases&label=last%20release&style=badge)](https://github.com/infostart-hub/toolkit/releases/latest)
