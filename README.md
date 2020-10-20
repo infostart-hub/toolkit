@@ -5,7 +5,7 @@
 [![Last release](https://img.shields.io/github/v/release/infostart-hub/toolkit?include_prereleases&label=last%20release&style=badge)](https://github.com/infostart-hub/toolkit/releases/latest)
 [![GitHub issues](https://img.shields.io/github/issues-raw/infostart-hub/toolkit?style=badge)](https://github.com/infostart-hub/toolkit/issues)
 
-Открытый проект для сбора обратной связи по проекту
+Проект для сбора обратной связи
 
 **Исходники закрыты** и не хранятся в репозитории
 
