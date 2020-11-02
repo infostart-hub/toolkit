@@ -9,6 +9,6 @@
 **Исходники закрыты** и не хранятся в репозитории
 
 ## Документация и статьи
-[Infostart Toolkit](https://infostart.ru/public/1254364/)
+[Infostart Toolkit (на сайте infostart.ru)](https://infostart.ru/public/1254364/)
 
 [Улучшенный конструктор запросов тонкого клиента](https://infostart.ru/1c/articles/1278855/)
