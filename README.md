@@ -1,4 +1,3 @@
-# Infostart Toolkit
 ![Infostart Toolkit](https://repository-images.githubusercontent.com/299848832/7c7b3c00-1d12-11eb-99fe-7eee49563aa3)
 [Публикация на Инфостарт (Управляемые инструменты разработчика)](https://infostart.ru/public/1254364/)
 
