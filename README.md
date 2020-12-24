@@ -10,8 +10,8 @@
 Проект для сбора обратной связи. **Исходники закрыты** и не хранятся в репозитории
 
 ## Документация и статьи
-[Отладка в Infostart Toolkit](https://infostart.ru/1c/articles/1321263/)
-
 [Улучшенный конструктор запросов тонкого клиента](https://infostart.ru/1c/articles/1278855/)
 
 [Видео "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://www.youtube.com/watch?v=zxFrE_uw92w)
+
+[Отладка в Infostart Toolkit](https://infostart.ru/1c/articles/1321263/)
