@@ -14,4 +14,4 @@
 
 [Улучшенный конструктор запросов тонкого клиента](https://infostart.ru/1c/articles/1278855/)
 
-[Видео "Работа с СКД" (Infostart Meetup: Практика применения СКД)] (https://www.youtube.com/watch?v=zxFrE_uw92w)
+[Видео "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://www.youtube.com/watch?v=zxFrE_uw92w)
