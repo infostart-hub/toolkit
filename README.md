@@ -9,11 +9,11 @@
 
 Проект для сбора обратной связи. **Исходники закрыты** и не хранятся в репозитории
 
-## Документация и статьи
+## Документация, статьи, видео
 [Улучшенный конструктор запросов тонкого клиента](https://infostart.ru/1c/articles/1278855/)
 
-[Видео "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://www.youtube.com/watch?v=zxFrE_uw92w)
-
 [Отладка в Infostart Toolkit](https://infostart.ru/1c/articles/1321263/)
+
+[Видео "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://www.youtube.com/watch?v=zxFrE_uw92w)
 
 [Видео "Infostart Toolkit" (Желтый клуб: Повышение эффективности разработки на платформе 1С)](https://www.youtube.com/watch?v=R48Nphm_TkA&t)
