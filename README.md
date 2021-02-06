@@ -31,7 +31,7 @@
 [Видео "Infostart Toolkit" (Желтый клуб: Повышение эффективности разработки на платформе 1С)](https://www.youtube.com/watch?v=R48Nphm_TkA&t)
 
 ## Новое в версиях
-[Версия 1.6 от 04.02.20. Редактор текста запроса с подсветкой синтаксиса и контекстной подсказкой](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-1-6-redaktor-teksta-zaprosa-s-podtsvetkoy-sintaksisa-i-kontekstnoy-podskazkoy_1375466/)
+[Версия 1.6 от 04.02.21. Редактор текста запроса с подсветкой синтаксиса и контекстной подсказкой](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-1-6-redaktor-teksta-zaprosa-s-podtsvetkoy-sintaksisa-i-kontekstnoy-podskazkoy_1375466/)
 
 [Версия 1.5 от 04.12.20. Работа без БСП и оптимизация тяжелых операций](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-1-5-rabota-bez-bsp-optimizatsiya_1337852/)
 
