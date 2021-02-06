@@ -29,3 +29,12 @@
 [Видео "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://www.youtube.com/watch?v=zxFrE_uw92w)
 
 [Видео "Infostart Toolkit" (Желтый клуб: Повышение эффективности разработки на платформе 1С)](https://www.youtube.com/watch?v=R48Nphm_TkA&t)
+
+## Новое в версиях
+[Версия 1.6. Редактор текста запроса с подсветкой синтаксиса и контекстной подсказкой](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-1-6-redaktor-teksta-zaprosa-s-podtsvetkoy-sintaksisa-i-kontekstnoy-podskazkoy_1375466/)
+
+[Версия 1.5. Работа без БСП и оптимизация тяжелых операций](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-1-5-rabota-bez-bsp-optimizatsiya_1337852/)
+
+[Версия 1.4. C анализом подписок на события и развитием редактора объекта](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-1-4-podpiski-na-sobytiya-razvitie-redaktora-obekta_1321623/)
+
+[Версия 1.3. C новым редактором кода на базе Monaco Editor](https://infostart.ru/journal/news/news/infostart-toolkit-1-3-teper-s-novym-redaktorom-koda-na-baze-monaco-editor_1303095/)
