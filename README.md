@@ -24,6 +24,8 @@
 
 [Отладка в Infostart Toolkit](https://infostart.ru/1c/articles/1321263/)
 
+[Структура запроса (Infostart Toolkit)](https://infostart.ru/1c/articles/1392009/)
+
 [Презентация в виде статьи "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://infostart.ru/1c/articles/1350842/)
 
 [Видео "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://www.youtube.com/watch?v=zxFrE_uw92w)
