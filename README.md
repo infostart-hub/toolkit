@@ -16,6 +16,8 @@
 * Подписки на события
 * Пользователи
 * Регламентные и фоновые задания
+* Все функции
+* Редактор параметров сеанса
 
 Проект для сбора обратной связи. **Исходники закрыты** и не хранятся в репозитории
 
@@ -35,6 +37,8 @@
 [Видео "Первое обзорное видео (устаревшее)"](https://www.youtube.com/watch?v=qHzyP-ZaV9U)
 
 ## Новое в версиях
+[Версия 1.7 от 03.03.21. новые инструменты и контекстная подсказка в конструкторе запросов](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-1-7-novye-instrumenty-i-kontekstnaya-podskazka-v-konstruktore-zaprosov_1398257/)
+
 [Версия 1.6 от 04.02.21. Редактор текста запроса с подсветкой синтаксиса и контекстной подсказкой](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-1-6-redaktor-teksta-zaprosa-s-podtsvetkoy-sintaksisa-i-kontekstnoy-podskazkoy_1375466/)
 
 [Версия 1.5 от 04.12.20. Работа без БСП и оптимизация тяжелых операций](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-1-5-rabota-bez-bsp-optimizatsiya_1337852/)
