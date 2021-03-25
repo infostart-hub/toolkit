@@ -4,6 +4,7 @@
 [![Join telegram chat](https://img.shields.io/badge/chat-telegram-blue?style=flat&logo=telegram)](https://t.me/mid8_1c) 
 [![Last release](https://img.shields.io/github/v/release/infostart-hub/toolkit?include_prereleases&label=last%20release&style=badge)](https://github.com/infostart-hub/toolkit/releases/latest)
 [![GitHub issues](https://img.shields.io/github/issues-raw/infostart-hub/toolkit?style=badge)](https://github.com/infostart-hub/toolkit/issues)
+[![Quality Gate Status](https://https://sonar.infostart.ru/api/project_badges/measure?project=toolkit&metric=alert_status)](https://sonar.infostart.ru/dashboard?id=toolkit) 
 
 Набор инструментов для анализа и обработки данных в информационной базе 1С.
 
