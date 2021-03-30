@@ -46,6 +46,3 @@
 [Версия 1.4 от 11.11.20. C анализом подписок на события и развитием редактора объекта](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-1-4-podpiski-na-sobytiya-razvitie-redaktora-obekta_1321623/)
 
 [Версия 1.3 от 05.10.20. C новым редактором кода на базе Monaco Editor](https://infostart.ru/journal/news/news/infostart-toolkit-1-3-teper-s-novym-redaktorom-koda-na-baze-monaco-editor_1303095/)
-
-## Прочее
-[Доска в SonarCube](https://sonar.infostart.ru/dashboard?id=toolkit)
