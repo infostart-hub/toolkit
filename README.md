@@ -21,6 +21,8 @@
 
 Проект для сбора обратной связи. **Исходники не хранятся в репозитории**
 
+[Контроль качества кода SonarCube](https://sonar.infostart.ru/dashboard?id=toolkit)
+
 ## Статьи, видео
 [10 полезных, но малоизвестных возможностей IS Toolkit](https://infostart.ru/1c/articles/1431272/)
 
