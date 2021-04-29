@@ -41,6 +41,8 @@
 [Видео "Первое обзорное видео (устаревшее)"](https://www.youtube.com/watch?v=qHzyP-ZaV9U)
 
 ## Новое в версиях
+[Версия 1.8: развитие инструментария СКД и другие улучшения](https://infostart.ru/journal/news/news/infostart-toolkit-1-8-razvitie-instrumentariya-skd-i-drugie-uluchsheniya_1434708/)
+
 [Версия 1.7 от 03.03.21. Новые инструменты и контекстная подсказка в конструкторе запросов](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-1-7-novye-instrumenty-i-kontekstnaya-podskazka-v-konstruktore-zaprosov_1398257/)
 
 [Версия 1.6 от 04.02.21. Редактор текста запроса с подсветкой синтаксиса и контекстной подсказкой](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-1-6-redaktor-teksta-zaprosa-s-podtsvetkoy-sintaksisa-i-kontekstnoy-podskazkoy_1375466/)
