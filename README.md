@@ -23,7 +23,7 @@
 
 [Качество разработки – под контролем SonarQube](https://sonar.infostart.ru/dashboard?id=toolkit)
 
-## Статьи, видео
+## Статьи
 [10 полезных, но малоизвестных возможностей IS Toolkit](https://infostart.ru/1c/articles/1431272/)
 
 [Улучшенный конструктор запросов тонкого клиента](https://infostart.ru/1c/articles/1278855/)
@@ -34,6 +34,7 @@
 
 [Презентация в виде статьи "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://infostart.ru/1c/articles/1350842/)
 
+## Видео
 [Видео "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://www.youtube.com/watch?v=zxFrE_uw92w)
 
 [Видео "Infostart Toolkit" (Желтый клуб: Повышение эффективности разработки на платформе 1С)](https://www.youtube.com/watch?v=R48Nphm_TkA&t)
