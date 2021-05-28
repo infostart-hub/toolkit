@@ -24,6 +24,8 @@
 [Качество разработки – под контролем SonarQube](https://sonar.infostart.ru/dashboard?id=toolkit)
 
 ## Статьи
+[Редактор кода, запроса, ... Infostart Toolkit (интеграция с MS Monaco)](https://infostart.ru/1c/articles/1446383/)
+
 [10 полезных, но малоизвестных возможностей IS Toolkit](https://infostart.ru/1c/articles/1431272/)
 
 [Улучшенный конструктор запросов тонкого клиента](https://infostart.ru/1c/articles/1278855/)
