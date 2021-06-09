@@ -24,6 +24,8 @@
 [Качество разработки – под контролем SonarQube](https://sonar.infostart.ru/dashboard?id=toolkit)
 
 ## Статьи
+[Презентация в виде статьи "Infostart Toolkit - инструмент, в котором сделано то, что давно просят от 1С"](https://infostart.ru/1c/articles/1456264/)
+
 [Редактор кода, запроса, ... Infostart Toolkit (интеграция с MS Monaco)](https://infostart.ru/1c/articles/1446383/)
 
 [10 полезных, но малоизвестных возможностей IS Toolkit](https://infostart.ru/1c/articles/1431272/)
@@ -37,6 +39,8 @@
 [Презентация в виде статьи "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://infostart.ru/1c/articles/1350842/)
 
 ## Видео
+[Видео (Infostart Enent2021: Infostart Toolkit - инструмент, в котором сделано то, что давно просят от 1С)](https://www.youtube.com/watch?v=VMsRKL_KVMM)
+
 [Видео "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://www.youtube.com/watch?v=zxFrE_uw92w)
 
 [Видео "Infostart Toolkit" (Желтый клуб: Повышение эффективности разработки на платформе 1С)](https://www.youtube.com/watch?v=R48Nphm_TkA&t)
