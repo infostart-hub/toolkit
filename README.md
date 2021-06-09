@@ -39,7 +39,7 @@
 [Презентация в виде статьи "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://infostart.ru/1c/articles/1350842/)
 
 ## Видео
-[Видео (Infostart Enent2021: Infostart Toolkit - инструмент, в котором сделано то, что давно просят от 1С)](https://www.youtube.com/watch?v=VMsRKL_KVMM)
+[Видео Infostart Enent 2021: "Infostart Toolkit - инструмент, в котором сделано то, что давно просят от 1С"](https://www.youtube.com/watch?v=VMsRKL_KVMM)
 
 [Видео "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://www.youtube.com/watch?v=zxFrE_uw92w)
 
