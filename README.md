@@ -48,9 +48,9 @@
 [Видео "Первое обзорное видео (устаревшее)"](https://www.youtube.com/watch?v=qHzyP-ZaV9U)
 
 ## Новое в версиях
-[Версия 1.9 от 25.06.21: Развитие редактора Monaco, оптимизация](https://infostart.ru/journal/news/mir-1s/do-10-iyulya-2021-goda-na-infostart-toolkit-1-9-skidka-25_1466805/)
+[Версия 1.9 от 25.06.21. Развитие редактора Monaco, оптимизация](https://infostart.ru/journal/news/mir-1s/do-10-iyulya-2021-goda-na-infostart-toolkit-1-9-skidka-25_1466805/)
 
-[Версия 1.8 от 28.04.21: Развитие инструментария СКД и другие улучшения](https://infostart.ru/journal/news/news/infostart-toolkit-1-8-razvitie-instrumentariya-skd-i-drugie-uluchsheniya_1434708/)
+[Версия 1.8 от 28.04.21. Развитие инструментария СКД и другие улучшения](https://infostart.ru/journal/news/news/infostart-toolkit-1-8-razvitie-instrumentariya-skd-i-drugie-uluchsheniya_1434708/)
 
 [Версия 1.7 от 03.03.21. Новые инструменты и контекстная подсказка в конструкторе запросов](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-1-7-novye-instrumenty-i-kontekstnaya-podskazka-v-konstruktore-zaprosov_1398257/)
 
