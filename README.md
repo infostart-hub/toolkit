@@ -24,6 +24,8 @@
 [Качество разработки – под контролем SonarQube](https://sonar.infostart.ru/dashboard?id=toolkit)
 
 ## Статьи
+[Тонкий конструктор СКД (Infostart Toolkit)](https://infostart.ru/1c/articles/1486980/)
+
 [Своя форма выбора типа метаданных (Infostart Toolkit)](https://infostart.ru/1c/articles/1486330/)
 
 [Презентация в виде статьи "Infostart Toolkit - инструмент, в котором сделано то, что давно просят от 1С"](https://infostart.ru/1c/articles/1456264/)
