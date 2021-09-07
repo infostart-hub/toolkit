@@ -52,7 +52,7 @@
 [Видео "Первое обзорное видео (устаревшее)"](https://www.youtube.com/watch?v=qHzyP-ZaV9U)
 
 ## Новое в версиях
-[Infostart Toolkit 2.0: встречаем конструктор СКД для тонкого клиента](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2-0-vstrechaem-konstruktor-skd-dlya-tonkogo-klienta_1511261/)
+[Версия 2.0 от 17.08.21 Встречаем конструктор СКД для тонкого клиента](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2-0-vstrechaem-konstruktor-skd-dlya-tonkogo-klienta_1511261/)
 
 [Версия 1.9 от 25.06.21. Развитие редактора Monaco, оптимизация](https://infostart.ru/journal/news/mir-1s/do-10-iyulya-2021-goda-na-infostart-toolkit-1-9-skidka-25_1466805/)
 
