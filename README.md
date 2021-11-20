@@ -53,6 +53,7 @@
 
 ## Новое в версиях
 [Версия 2.2 от 15.11.21 Глобальное меню, версия инструментов ADMIN и поддержка веб-клиента](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2-2-globalnoe-menyu-versiya-instrumentov-admin-i-podderzhka-veb-klienta_1553652/)
+
 [Версия 2.1 от 06.10.21 Автокомплит по методам общих модулей и новые возможности редактора Monaco](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2-1-avtokomplit-po-metodam-obshchikh-moduley-i-novye-vozmozhnosti-redaktora-monaco_1533678/)
 
 [Версия 2.0 от 17.08.21 Встречаем конструктор СКД для тонкого клиента](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2-0-vstrechaem-konstruktor-skd-dlya-tonkogo-klienta_1511261/)
