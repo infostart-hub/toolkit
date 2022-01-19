@@ -55,6 +55,8 @@
 [Видео "Первое обзорное видео (устаревшее)"](https://www.youtube.com/watch?v=qHzyP-ZaV9U)
 
 ## Новое в версиях
+[Версия 2.3 от 14.01.22 Встречаем новые инструменты в составе Infostart Toolkit 2.3](https://infostart.ru/journal/news/mir-1s/vstrechaem-novye-instrumenty-v-sostave-infostart-toolkit-2-3_1588213/)
+
 [Версия 2.2 от 15.11.21 Глобальное меню, версия инструментов ADMIN и поддержка веб-клиента](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2-2-globalnoe-menyu-versiya-instrumentov-admin-i-podderzhka-veb-klienta_1553652/)
 
 [Версия 2.1 от 06.10.21 Автокомплит по методам общих модулей и новые возможности редактора Monaco](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2-1-avtokomplit-po-metodam-obshchikh-moduley-i-novye-vozmozhnosti-redaktora-monaco_1533678/)
