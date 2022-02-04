@@ -54,6 +54,8 @@
 
 [Видео "Infostart Toolkit" (Желтый клуб: Повышение эффективности разработки на платформе 1С)](https://www.youtube.com/watch?v=R48Nphm_TkA&t)
 
+[Техкружок #2.1 Infostart Toolkit. Обзор инструментов](https://www.youtube.com/watch?v=mGLJbp0qROg)
+
 [Видео "Первое обзорное видео (устаревшее)"](https://www.youtube.com/watch?v=qHzyP-ZaV9U)
 
 ## Новое в версиях
