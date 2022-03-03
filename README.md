@@ -61,6 +61,8 @@
 [Видео "Первое обзорное видео (устаревшее)"](https://www.youtube.com/watch?v=qHzyP-ZaV9U)
 
 ## Новое в версиях
+[Версия 2.4 от 21.02.22 Cтек вызовов, пользовательские шаблоны и поддержка англоязычного кода](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2-4-stek-vyzovov-polzovatelskie-shablony-i-podderzhka-angloyazychnogo-koda_1615821/)
+
 [Версия 2.3 от 14.01.22 Встречаем новые инструменты в составе Infostart Toolkit 2.3](https://infostart.ru/journal/news/mir-1s/vstrechaem-novye-instrumenty-v-sostave-infostart-toolkit-2-3_1588213/)
 
 [Версия 2.2 от 15.11.21 Глобальное меню, версия инструментов ADMIN и поддержка веб-клиента](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2-2-globalnoe-menyu-versiya-instrumentov-admin-i-podderzhka-veb-klienta_1553652/)
