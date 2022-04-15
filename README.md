@@ -27,6 +27,9 @@
 [Качество разработки – под контролем SonarQube](https://sonar.infostart.ru/dashboard?id=toolkit)
 
 ## Статьи
+
+[Все функции (Infostart Toolkit)](https://infostart.ru/1c/articles/1626559/)
+
 [Глобальное меню (Infostart Toolkit)](https://infostart.ru/public/1605809/)
 
 [Подписки на события (Infostart Toolkit)](https://infostart.ru/1c/articles/1571266/)
