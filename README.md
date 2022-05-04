@@ -28,6 +28,7 @@
 [Качество разработки – под контролем SonarQube](https://sonar.infostart.ru/dashboard?id=toolkit)
 
 ## Статьи
+[Чем набор инструментов Infostart Toolkit будет полезен аналитикам](https://infostart.ru/1c/articles/1654659/)
 
 [Все функции (Infostart Toolkit)](https://infostart.ru/1c/articles/1626559/)
 
@@ -54,6 +55,8 @@
 [Презентация в виде статьи "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://infostart.ru/1c/articles/1350842/)
 
 ## Видео
+[Чем набор инструментов Infostart Toolkit будет полезен аналитикам](https://www.youtube.com/watch?v=LQ09NTXFtY4)
+
 [Видео Infostart Event 2021: Sankt-Peterburg "Infostart Toolkit - инструмент, в котором сделано то, что давно просят от 1С"](https://www.youtube.com/watch?v=VMsRKL_KVMM)
 
 [Видео "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://www.youtube.com/watch?v=zxFrE_uw92w)
