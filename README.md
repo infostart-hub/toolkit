@@ -68,7 +68,7 @@
 [Видео "Первое обзорное видео (устаревшее)"](https://www.youtube.com/watch?v=qHzyP-ZaV9U)
 
 ## Новое в версиях
-[Версия 2022.3: пакетная установка, контекстный вызов журнала регистрации и поддержка формата EDT](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2022-3-paketnaya-ustanovka-kontekstnyy-vyzov-zhurnala-registratsii-i-podderzhka-fo_1655415/)
+[Версия 2022.3: Пакетная установка, контекстный вызов журнала регистрации и поддержка формата EDT](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2022-3-paketnaya-ustanovka-kontekstnyy-vyzov-zhurnala-registratsii-i-podderzhka-fo_1655415/)
 
 [Версия 2.4 от 21.02.22 Cтек вызовов, пользовательские шаблоны и поддержка англоязычного кода](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2-4-stek-vyzovov-polzovatelskie-shablony-i-podderzhka-angloyazychnogo-koda_1615821/)
 
