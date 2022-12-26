@@ -72,6 +72,8 @@
 [Видео "Первое обзорное видео (устаревшее)"](https://www.youtube.com/watch?v=qHzyP-ZaV9U)
 
 ## Новое в версиях
+[Версия 2022.5: интегрированный просмотр метаданных и развитие контекстной подсказки](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2022-5-integrirovannyy-prosmotr-metadannykh-i-razvitie-kontekstnoy-podskazki_1782292/)
+
 [Версия 2022.4: Динамический список, сравнение движений и избранное в регламентных заданиях](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2022-4-dinamicheskiy-spisok-sravnenie-dvizheniy-i-izbrannoe-v-reglamentnykh-zadani_1676485/)
 
 [Версия 2022.3: Пакетная установка, контекстный вызов журнала регистрации и поддержка формата EDT](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2022-3-paketnaya-ustanovka-kontekstnyy-vyzov-zhurnala-registratsii-i-podderzhka-fo_1655415/)
