@@ -72,7 +72,9 @@
 [Видео "Первое обзорное видео (устаревшее)"](https://www.youtube.com/watch?v=qHzyP-ZaV9U)
 
 ## Новое в версиях
-[Версия 2023.1: 2023.1: Структура хранения полей метаданных, ссылки на объект и поддержка контекста расширений](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2023-1-struktura-khraneniya-poley-metadannykh-ssylki-na-obekt-i-podderzhka-konteks_1800363/)
+[Версия 2023.2: Поиск в метаданных, развития инструмента свойства метаданных](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2023-2-bystree-udobnee-i-informativnee_1818081/)
+
+[Версия 2023.1: Структура хранения полей метаданных, ссылки на объект и поддержка контекста расширений](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2023-1-struktura-khraneniya-poley-metadannykh-ssylki-na-obekt-i-podderzhka-konteks_1800363/)
 
 [Версия 2022.5: Интегрированный просмотр метаданных и развитие контекстной подсказки](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2022-5-integrirovannyy-prosmotr-metadannykh-i-razvitie-kontekstnoy-podskazki_1782292/)
 
