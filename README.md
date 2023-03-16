@@ -30,6 +30,8 @@
 [Качество разработки – под контролем SonarQube](https://sonar.infostart.ru/dashboard?id=toolkit)
 
 ## Статьи
+[Метаданные (Infostart Toolkit)](https://infostart.ru/1c/articles/1824139/)
+
 [Доработки конструктора запроса тонкого клиента. Часть 2 - исправление багов](https://infostart.ru/1c/articles/1695523/)
 
 [Чем набор инструментов Infostart Toolkit будет полезен аналитикам](https://infostart.ru/1c/articles/1654659/)
