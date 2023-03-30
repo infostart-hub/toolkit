@@ -61,6 +61,8 @@
 [Презентация в виде статьи "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://infostart.ru/1c/articles/1350842/)
 
 ## Видео
+[Интервью с Инфостарт Евент 2022](https://infostart.ru/journal/news/mir-1s/evgeniy-lyulyuk-s-poyavleniem-rasshireniy-prishlo-vremya-sereznykh-i-bystrorastushchikh-produktov_1837161/)
+
 [Чем набор инструментов Infostart Toolkit будет полезен аналитикам](https://www.youtube.com/watch?v=LQ09NTXFtY4)
 
 [Видео Infostart Event 2021: Sankt-Peterburg "Infostart Toolkit - инструмент, в котором сделано то, что давно просят от 1С"](https://www.youtube.com/watch?v=VMsRKL_KVMM)
