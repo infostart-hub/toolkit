@@ -30,6 +30,8 @@
 [Качество разработки – под контролем SonarQube](https://sonar.infostart.ru/dashboard?id=toolkit)
 
 ## Статьи
+[Интервью с Инфостарт Евент 2022](https://infostart.ru/journal/news/mir-1s/evgeniy-lyulyuk-s-poyavleniem-rasshireniy-prishlo-vremya-sereznykh-i-bystrorastushchikh-produktov_1837161/)
+
 [Метаданные (Infostart Toolkit)](https://infostart.ru/1c/articles/1824139/)
 
 [Доработки конструктора запроса тонкого клиента. Часть 2 - исправление багов](https://infostart.ru/1c/articles/1695523/)
@@ -61,7 +63,7 @@
 [Презентация в виде статьи "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://infostart.ru/1c/articles/1350842/)
 
 ## Видео
-[Интервью с Инфостарт Евент 2022](https://infostart.ru/journal/news/mir-1s/evgeniy-lyulyuk-s-poyavleniem-rasshireniy-prishlo-vremya-sereznykh-i-bystrorastushchikh-produktov_1837161/)
+[Интервью с Инфостарт Евент 2022](https://www.youtube.com/watch?v=88GLI5DJw9I)
 
 [Чем набор инструментов Infostart Toolkit будет полезен аналитикам](https://www.youtube.com/watch?v=LQ09NTXFtY4)
 
