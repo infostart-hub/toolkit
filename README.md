@@ -76,6 +76,8 @@
 [Видео "Первое обзорное видео (устаревшее)"](https://www.youtube.com/watch?v=qHzyP-ZaV9U)
 
 ## Новое в версиях
+[Версия 2023.3: больше возможностей конфигуратора в режиме 1С:Предприятие](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2023-3-bolshe-vozmozhnostey-konfiguratora-v-rezhime-1s-predpriyatie_1852965/)
+
 [Версия 2023.2: Поиск в метаданных, развития инструмента свойства метаданных](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2023-2-bystree-udobnee-i-informativnee_1818081/)
 
 [Версия 2023.1: Структура хранения полей метаданных, ссылки на объект и поддержка контекста расширений](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2023-1-struktura-khraneniya-poley-metadannykh-ssylki-na-obekt-i-podderzhka-konteks_1800363/)
