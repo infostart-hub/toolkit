@@ -8,17 +8,17 @@
 Набор инструментов для анализа и обработки данных в информационной базе 1С.
 
 * Консоль разработчика (консоль запросов, кода, СКД)
-* Редактор объекта
+* Редактор объекта [подробнее](https://infostart.ru/1c/articles/1858275/)
 * Редактор констант
 * Поиск и замена ссылок
 * Поиск ссылок
 * Монитор лицензий
-* Подписки на события
+* Подписки на события [подробнее](https://infostart.ru/1c/articles/1571266/)
 * Пользователи
 * Регламентные и фоновые задания
-* Метаданные
-* Все функции
-* Глобальное меню
+* Метаданные [подробнее](https://infostart.ru/1c/articles/1824139/)
+* Все функции [подробнее](https://infostart.ru/1c/articles/1626559/)
+* Глобальное меню [подробнее](https://infostart.ru/1c/articles/1605809/)
 * Редактор параметров сеанса
 * Анализ прав доступа
 * Сравнение объектов
@@ -30,6 +30,8 @@
 [Качество разработки – под контролем SonarQube](https://sonar.infostart.ru/dashboard?id=toolkit)
 
 ## Статьи
+[Редактор объекта (Infostart Toolkit)](https://infostart.ru/1c/articles/1858275/)
+
 [Интервью с Инфостарт Евент 2022](https://infostart.ru/journal/news/mir-1s/evgeniy-lyulyuk-s-poyavleniem-rasshireniy-prishlo-vremya-sereznykh-i-bystrorastushchikh-produktov_1837161/)
 
 [Метаданные (Infostart Toolkit)](https://infostart.ru/1c/articles/1824139/)
