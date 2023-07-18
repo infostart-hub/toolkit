@@ -82,6 +82,8 @@
 [Видео "Первое обзорное видео (устаревшее)"](https://www.youtube.com/watch?v=qHzyP-ZaV9U)
 
 ## Новое в версиях
+[Версия 2023.4: Новая консоль кода](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2023-4-novaya-konsol-koda-i-perekhod-ot-konsoli-razrabotchika-na-otdelnye-obrabotk_1900836/)
+
 [Версия 2023.3: Больше возможностей конфигуратора в режиме 1С:Предприятие](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2023-3-bolshe-vozmozhnostey-konfiguratora-v-rezhime-1s-predpriyatie_1852965/)
 
 [Версия 2023.2: Поиск в метаданных, развития инструмента свойства метаданных](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2023-2-bystree-udobnee-i-informativnee_1818081/)
