@@ -29,8 +29,6 @@
 
 Проект для сбора обратной связи. **Исходники не хранятся в репозитории**
 
-[Качество разработки – под контролем SonarQube](https://sonar.infostart.ru/dashboard?id=toolkit)
-
 ## Статьи
 [Редактор объекта (Infostart Toolkit)](https://infostart.ru/1c/articles/1858275/)
 
