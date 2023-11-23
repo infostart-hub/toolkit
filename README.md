@@ -65,6 +65,8 @@
 [Презентация в виде статьи "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://infostart.ru/1c/articles/1350842/)
 
 ## Видео
+[Вебинар "Будьте эффективнее с помощью Infostart Toolkit"](https://www.youtube.com/watch?v=6hLPuAuoes8)
+
 [Интервью с Инфостарт Евент 2022](https://www.youtube.com/watch?v=88GLI5DJw9I)
 
 [Чем набор инструментов Infostart Toolkit будет полезен аналитикам](https://www.youtube.com/watch?v=LQ09NTXFtY4)
