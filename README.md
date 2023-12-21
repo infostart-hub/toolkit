@@ -1,4 +1,4 @@
-[![Infostart Toolkit](logo.png)](https://infostart.ru/public/1254364/)
+[![Infostart Toolkit](logo.png)](https://infostart.ru/marketplace/toolkit/)
 
 
 [![Join telegram chat](https://img.shields.io/badge/chat-telegram-blue?style=flat&logo=telegram)](https://t.me/mid8_1c) 
