@@ -12,12 +12,14 @@
 * Консоль кода
 * Редактор объекта [подробнее](https://infostart.ru/1c/articles/1858275/)
 * Редактор констант
+* Редактор записи независимого регистра сведений
 * Поиск и замена ссылок
 * Поиск ссылок
 * Монитор лицензий
 * Подписки на события [подробнее](https://infostart.ru/1c/articles/1571266/)
 * Пользователи
 * Регламентные и фоновые задания
+* Обслуживание (служебные)
 * Метаданные [подробнее](https://infostart.ru/1c/articles/1824139/)
 * Все функции [подробнее](https://infostart.ru/1c/articles/1626559/)
 * Глобальное меню [подробнее](https://infostart.ru/1c/articles/1605809/)
@@ -82,6 +84,8 @@
 [Видео "Первое обзорное видео (устаревшее)"](https://www.youtube.com/watch?v=qHzyP-ZaV9U)
 
 ## Новое в версиях
+[Версия 2024.1: Новые инструменты и интеграция с полем глобального поиска](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2024-1-novye-instrumenty-i-integratsiya-s-polem-globalnogo-poiska_2047720/)
+
 [Версия 2023.5: Анализ прав БСП и улучшения в совместном использовании инструментов](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2023-5-analiz-prav-bsp-i-uluchsheniya-v-sovmestnom-ispolzovanii-instrumentov_2008146/)
 
 [Версия 2023.4: Новая консоль кода](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2023-4-novaya-konsol-koda-i-perekhod-ot-konsoli-razrabotchika-na-otdelnye-obrabotk_1900836/)
