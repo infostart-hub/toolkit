@@ -32,6 +32,8 @@
 Проект для сбора обратной связи. **Исходники не хранятся в репозитории**
 
 ## Статьи
+[История Infostart Toolkit: более 7 лет работы](https://infostart.ru/1c/articles/2037920/)
+
 [Редактор объекта (Infostart Toolkit)](https://infostart.ru/1c/articles/1858275/)
 
 [Интервью с Инфостарт Евент 2022](https://infostart.ru/journal/news/mir-1s/evgeniy-lyulyuk-s-poyavleniem-rasshireniy-prishlo-vremya-sereznykh-i-bystrorastushchikh-produktov_1837161/)
