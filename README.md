@@ -69,6 +69,8 @@
 [Презентация в виде статьи "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://infostart.ru/1c/articles/1350842/)
 
 ## Видео
+[Вебинар для разработчиков 1C: Тонкости работы с Infostart Toolkit 23.05](https://www.youtube.com/live/XEhMM_VBBFw)
+
 [Вебинар "Будьте эффективнее с помощью Infostart Toolkit"](https://www.youtube.com/watch?v=6hLPuAuoes8)
 
 [Интервью с Инфостарт Евент 2022](https://www.youtube.com/watch?v=88GLI5DJw9I)
