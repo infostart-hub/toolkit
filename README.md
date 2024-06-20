@@ -88,23 +88,25 @@
 [Видео "Первое обзорное видео (устаревшее)"](https://www.youtube.com/watch?v=qHzyP-ZaV9U)
 
 ## Новое в версиях
-[Версия 2024.1: Новые инструменты и интеграция с полем глобального поиска](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2024-1-novye-instrumenty-i-integratsiya-s-polem-globalnogo-poiska_2047720/)
+[2024.2: Доработки конструктора СКД, запуск под пользователем с отладкой и др.](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2024-2-dorabotki-konstruktora-skd-zapusk-pod-polzovatelem-s-otladkoy-i-drugie-izme_2131842/)
 
-[Версия 2023.5: Анализ прав БСП и улучшения в совместном использовании инструментов](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2023-5-analiz-prav-bsp-i-uluchsheniya-v-sovmestnom-ispolzovanii-instrumentov_2008146/)
+[2024.1: Новые инструменты и интеграция с полем глобального поиска](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2024-1-novye-instrumenty-i-integratsiya-s-polem-globalnogo-poiska_2047720/)
 
-[Версия 2023.4: Новая консоль кода](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2023-4-novaya-konsol-koda-i-perekhod-ot-konsoli-razrabotchika-na-otdelnye-obrabotk_1900836/)
+[2023.5: Анализ прав БСП и улучшения в совместном использовании инструментов](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2023-5-analiz-prav-bsp-i-uluchsheniya-v-sovmestnom-ispolzovanii-instrumentov_2008146/)
 
-[Версия 2023.3: Больше возможностей конфигуратора в режиме 1С:Предприятие](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2023-3-bolshe-vozmozhnostey-konfiguratora-v-rezhime-1s-predpriyatie_1852965/)
+[2023.4: Новая консоль кода](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2023-4-novaya-konsol-koda-i-perekhod-ot-konsoli-razrabotchika-na-otdelnye-obrabotk_1900836/)
 
-[Версия 2023.2: Поиск в метаданных, развития инструмента свойства метаданных](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2023-2-bystree-udobnee-i-informativnee_1818081/)
+[2023.3: Больше возможностей конфигуратора в режиме 1С:Предприятие](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2023-3-bolshe-vozmozhnostey-konfiguratora-v-rezhime-1s-predpriyatie_1852965/)
 
-[Версия 2023.1: Структура хранения полей метаданных, ссылки на объект и поддержка контекста расширений](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2023-1-struktura-khraneniya-poley-metadannykh-ssylki-na-obekt-i-podderzhka-konteks_1800363/)
+[2023.2: Поиск в метаданных, развития инструмента свойства метаданных](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2023-2-bystree-udobnee-i-informativnee_1818081/)
 
-[Версия 2022.5: Интегрированный просмотр метаданных и развитие контекстной подсказки](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2022-5-integrirovannyy-prosmotr-metadannykh-i-razvitie-kontekstnoy-podskazki_1782292/)
+[2023.1: Структура хранения полей метаданных, ссылки на объект и поддержка контекста расширений](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2023-1-struktura-khraneniya-poley-metadannykh-ssylki-na-obekt-i-podderzhka-konteks_1800363/)
 
-[Версия 2022.4: Динамический список, сравнение движений и избранное в регламентных заданиях](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2022-4-dinamicheskiy-spisok-sravnenie-dvizheniy-i-izbrannoe-v-reglamentnykh-zadani_1676485/)
+[2022.5: Интегрированный просмотр метаданных и развитие контекстной подсказки](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2022-5-integrirovannyy-prosmotr-metadannykh-i-razvitie-kontekstnoy-podskazki_1782292/)
 
-[Версия 2022.3: Пакетная установка, контекстный вызов журнала регистрации и поддержка формата EDT](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2022-3-paketnaya-ustanovka-kontekstnyy-vyzov-zhurnala-registratsii-i-podderzhka-fo_1655415/)
+[2022.4: Динамический список, сравнение движений и избранное в регламентных заданиях](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2022-4-dinamicheskiy-spisok-sravnenie-dvizheniy-i-izbrannoe-v-reglamentnykh-zadani_1676485/)
+
+[2022.3: Пакетная установка, контекстный вызов журнала регистрации и поддержка формата EDT](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2022-3-paketnaya-ustanovka-kontekstnyy-vyzov-zhurnala-registratsii-i-podderzhka-fo_1655415/)
 
 [Версия 2.4 от 21.02.22 Cтек вызовов, пользовательские шаблоны и поддержка англоязычного кода](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2-4-stek-vyzovov-polzovatelskie-shablony-i-podderzhka-angloyazychnogo-koda_1615821/)
 
