@@ -88,6 +88,8 @@
 [Видео "Первое обзорное видео (устаревшее)"](https://www.youtube.com/watch?v=qHzyP-ZaV9U)
 
 ## Новое в версиях
+[2024.3: Менеджер формы и быстрый поиск таблиц для конструктора запросов](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2024-3-menedzher-formy-i-bystryy-poisk-tablits-dlya-konstruktora-zaprosov_2171275/)
+
 [2024.2: Доработки конструктора СКД, запуск под пользователем с отладкой и др.](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2024-2-dorabotki-konstruktora-skd-zapusk-pod-polzovatelem-s-otladkoy-i-drugie-izme_2131842/)
 
 [2024.1: Новые инструменты и интеграция с полем глобального поиска](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2024-1-novye-instrumenty-i-integratsiya-s-polem-globalnogo-poiska_2047720/)
