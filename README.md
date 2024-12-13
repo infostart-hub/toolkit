@@ -89,6 +89,8 @@
 [Видео "Первое обзорное видео (устаревшее)"](https://www.youtube.com/watch?v=qHzyP-ZaV9U)
 
 ## Новое в версиях
+[2024.4: Интеграция консоли кода с OneDebugger, регистрация изменений на узлах и другие улучшения](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2024-4-integratsiya-konsoli-koda-s-onedebugger-registratsiya-izmeneniy-na-uzlakh-i_2261921/)
+
 [2024.3: Менеджер формы и быстрый поиск таблиц для конструктора запросов](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2024-3-menedzher-formy-i-bystryy-poisk-tablits-dlya-konstruktora-zaprosov_2171275/)
 
 [2024.2: Доработки конструктора СКД, запуск под пользователем с отладкой и др.](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2024-2-dorabotki-konstruktora-skd-zapusk-pod-polzovatelem-s-otladkoy-i-drugie-izme_2131842/)
