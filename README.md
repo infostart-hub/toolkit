@@ -89,6 +89,8 @@
 [Видео "Первое обзорное видео (устаревшее)"](https://www.youtube.com/watch?v=qHzyP-ZaV9U)
 
 ## Новое в версиях
+[OneDebugger 1.3.0: бесшовная интеграция с Infostart Toolkit](https://infostart.ru/journal/news/mir-1s/onedebugger-1-3-0-besshovnaya-integratsiya-s-infostart-toolkit-udobnoe-tablo-interfeysnye-dorabotki_2272515/)
+
 [2024.4: Интеграция консоли кода с OneDebugger, регистрация изменений на узлах и другие улучшения](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2024-4-integratsiya-konsoli-koda-s-onedebugger-registratsiya-izmeneniy-na-uzlakh-i_2261921/)
 
 [2024.3: Менеджер формы и быстрый поиск таблиц для конструктора запросов](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2024-3-menedzher-formy-i-bystryy-poisk-tablits-dlya-konstruktora-zaprosov_2171275/)
