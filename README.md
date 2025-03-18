@@ -70,7 +70,10 @@
 [Презентация в виде статьи "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://infostart.ru/1c/articles/1350842/)
 
 ## Видео
-[Редактор объекта](https://rutube.ru/video/379fc91addb0684fdeb0daab6769810f/)
+
+[Инструмент - Консоль запросов](https://rutube.ru/video/73dc81412e3483915e4aa0bd39eaa7e2/?r=wd)
+
+[Инструмент - Редактор объекта](https://rutube.ru/video/379fc91addb0684fdeb0daab6769810f/)
 
 [Вебинар для разработчиков 1C: Тонкости работы с Infostart Toolkit 23.05](https://www.youtube.com/live/XEhMM_VBBFw)
 
