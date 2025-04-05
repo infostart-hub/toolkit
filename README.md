@@ -75,7 +75,7 @@
 
 [Обзор инструмента - Консоль запросов](https://rutube.ru/video/41fd85237a895e7e4fb595eea763360f/)
 
-[Обзор инструмента - Редактор объекта](https://rutube.ru/video/379fc91addb0684fdeb0daab6769810f/)
+[Обзор инструмента - Редактор объекта](https://rutube.ru/video/d7f54638b05cbfe07c64357c3be4cc2c/)
 
 [Вебинар для разработчиков 1C: Тонкости работы с Infostart Toolkit 23.05](https://www.youtube.com/live/XEhMM_VBBFw)
 
