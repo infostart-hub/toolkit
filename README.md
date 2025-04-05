@@ -71,7 +71,9 @@
 
 ## Видео
 
-[Обзор инструмента - Консоль запросов](https://rutube.ru/video/73dc81412e3483915e4aa0bd39eaa7e2/?r=wd)
+[Обзор инструмента - Консоль кода](https://rutube.ru/video/dd9aa819bdd141c6eb5afcae18f0e61f/)
+
+[Обзор инструмента - Консоль запросов](https://rutube.ru/video/41fd85237a895e7e4fb595eea763360f/)
 
 [Обзор инструмента - Редактор объекта](https://rutube.ru/video/379fc91addb0684fdeb0daab6769810f/)
 
