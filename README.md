@@ -71,6 +71,8 @@
 
 ## Видео
 
+[Обзор инструмента - Пользователи](https://rutube.ru/video/cbd76f587621658d63e3e1627f672504/)
+
 [Обзор инструмента - Консоль кода](https://rutube.ru/video/dd9aa819bdd141c6eb5afcae18f0e61f/)
 
 [Обзор инструмента - Консоль запросов](https://rutube.ru/video/41fd85237a895e7e4fb595eea763360f/)
