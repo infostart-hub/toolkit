@@ -9,7 +9,7 @@
 
 * Консоль запросов
 * Консоль СКД
-* Консоль кода
+* Консоль кода [подробнее](https://infostart.ru/1c/articles/2403609/)
 * Редактор объекта [подробнее](https://infostart.ru/1c/articles/1858275/)
 * Метаданные [подробнее](https://infostart.ru/1c/articles/1824139/)
 * Все функции [подробнее](https://infostart.ru/1c/articles/1626559/)
@@ -33,6 +33,8 @@
 Проект для сбора обратной связи. **Исходники не хранятся в репозитории**
 
 ## Статьи
+[Консоль кода (Infostart Toolkit)](https://infostart.ru/1c/articles/2403609/)
+
 [История Infostart Toolkit: более 7 лет работы](https://infostart.ru/1c/articles/2037920/)
 
 [Редактор объекта (Infostart Toolkit)](https://infostart.ru/1c/articles/1858275/)
