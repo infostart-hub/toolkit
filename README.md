@@ -72,6 +72,8 @@
 [Презентация в виде статьи "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://infostart.ru/1c/articles/1350842/)
 
 ## Видео
+[Вебинар 26.06.25 "Обзор Infostart Toolkit"](https://rutube.ru/video/6be8aaa1f75646ead64145cf826645bb/)
+
 [Обзор инструмента - Регламентные и фоновые задания](https://rutube.ru/video/2a26254320b66bb3d8e8e1c8077203fb/)
 
 [Обзор инструмента - Пользователи](https://rutube.ru/video/cbd76f587621658d63e3e1627f672504/)
