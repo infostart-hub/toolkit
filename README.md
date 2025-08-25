@@ -5,8 +5,15 @@
 [![Last release](https://img.shields.io/github/v/release/infostart-hub/toolkit?include_prereleases&label=last%20release&style=badge)](https://github.com/infostart-hub/toolkit/releases/latest)
 [![GitHub issues](https://img.shields.io/github/issues-raw/infostart-hub/toolkit?style=badge)](https://github.com/infostart-hub/toolkit/issues)
 
-Набор инструментов для анализа и обработки данных в информационной базе 1С.
+Infostart Toolkit - Набор инструментов для анализа и обработки данных в информационной базе 1С.
 
+[Страница на Инфостарт](https://infostart.ru/marketplace/toolkit)
+
+[Телеграм канал](https://t.me/infostart_toolkit)
+
+[Канал на RUTUBE](https://rutube.ru/u/infostarttoolkit)
+
+# Перечень инструментов
 * Консоль запросов
 * Консоль СКД
 * Консоль кода [подробнее](https://infostart.ru/1c/articles/2403609/)
@@ -17,11 +24,13 @@
 * Поиск и замена ссылок
 * Поиск ссылок
 * Менеджер формы
+* Поиск по структуре хранения
 * Редактор констант
 * Редактор записи независимого регистра сведений
 * Монитор лицензий
 * Подписки на события [подробнее](https://infostart.ru/1c/articles/1571266/)
 * Пользователи
+* Настройки пользователей
 * Регламентные и фоновые задания [подробнее](https://infostart.ru/1c/articles/2409212)
 * Обслуживание (служебные)
 * Редактор параметров сеанса
