@@ -114,6 +114,8 @@ Infostart Toolkit - Набор инструментов для анализа и
 [Видео "Первое обзорное видео (устаревшее)"](https://www.youtube.com/watch?v=qHzyP-ZaV9U)
 
 ## Новое в версиях
+[2025.3: Новые инструменты и установщик со встроенной возможностью ограничения прав](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2025-3-novye-instrumenty-i-ustanovshchik-so-vstroennoy-vozmozhnostyu-ogranicheniya_2470246)
+
 [2025.2: Настройки пользователей, блокировка/завершение сеансов, информирование о новой версии](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2025-2-nastroyki-polzovateley-blokirovka-zavershenie-seansov-informirovanie-o-novo_2412530/)
 
 [2025.1: Редактирование хранилища значений, доработка глобального меню и другие улучшения](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2025-1-redaktirovanie-khranilishcha-znacheniy-dorabotka-globalnogo-menyu-i-drugie-_2363864/)
