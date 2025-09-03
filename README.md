@@ -11,7 +11,7 @@ Infostart Toolkit - Набор инструментов для анализа и
 
 # Перечень инструментов
 * Консоль запросов
-* Консоль СКД
+* Консоль СКД [подробнее](https://infostart.ru/1c/articles/2403609)
 * Консоль кода [подробнее](https://infostart.ru/1c/articles/2403609/)
 * Редактор объекта [подробнее](https://infostart.ru/1c/articles/1858275/)
 * Метаданные [подробнее](https://infostart.ru/1c/articles/1824139/)
