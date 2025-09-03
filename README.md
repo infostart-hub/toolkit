@@ -7,11 +7,7 @@
 
 Infostart Toolkit - Набор инструментов для анализа и обработки данных в информационной базе 1С.
 
-[Страница на Инфостарт](https://infostart.ru/marketplace/toolkit)
-
-[Телеграм канал](https://t.me/infostart_toolkit)
-
-[Канал на RUTUBE](https://rutube.ru/u/infostarttoolkit)
+[Страница на Инфостарт](https://infostart.ru/marketplace/toolkit) \ [Телеграм канал](https://t.me/infostart_toolkit) \ [Канал на RUTUBE](https://rutube.ru/u/infostarttoolkit)
 
 # Перечень инструментов
 * Консоль запросов
