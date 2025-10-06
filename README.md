@@ -110,7 +110,11 @@ Infostart Toolkit - Набор инструментов для анализа и
 
 [Видео "Первое обзорное видео (устаревшее)"](https://www.youtube.com/watch?v=qHzyP-ZaV9U)
 
+
 ## Новое в версиях
+[2025.4: Больше возможностей для отладки в режиме 1С:Предприятие и не только](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2025-4-bolshe-vozmozhnostey-dlya-otladki-v-rezhime-1s-predpriyatie-i-ne-tolko_2497512)
+Видообзор нового в версии
+
 [2025.3: Новые инструменты и установщик со встроенной возможностью ограничения прав](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2025-3-novye-instrumenty-i-ustanovshchik-so-vstroennoy-vozmozhnostyu-ogranicheniya_2470246)
 
 [2025.2: Настройки пользователей, блокировка/завершение сеансов, информирование о новой версии](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2025-2-nastroyki-polzovateley-blokirovka-zavershenie-seansov-informirovanie-o-novo_2412530/)
