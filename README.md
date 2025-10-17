@@ -115,7 +115,8 @@ Infostart Toolkit - Набор инструментов для анализа и
 
 ## Новое в версиях
 [2025.4: Больше возможностей для отладки в режиме 1С:Предприятие и не только](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2025-4-bolshe-vozmozhnostey-dlya-otladki-v-rezhime-1s-predpriyatie-i-ne-tolko_2497512)
-Видообзор нового в версии
+
+[Видеообзор нового в версии 2025.4](https://rutube.ru/video/dab48bdeb5860593e094b4352751df64)
 
 [2025.3: Новые инструменты и установщик со встроенной возможностью ограничения прав](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2025-3-novye-instrumenty-i-ustanovshchik-so-vstroennoy-vozmozhnostyu-ogranicheniya_2470246)
 
