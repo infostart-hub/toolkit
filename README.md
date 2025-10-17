@@ -80,6 +80,8 @@ Infostart Toolkit - Набор инструментов для анализа и
 [Презентация в виде статьи "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://infostart.ru/1c/articles/1350842/)
 
 ## Видео
+[Общий обзор Infostart Toolkit](https://rutube.ru/video/d50c975496e1857d3a24ca6cb76b3b82/?playlist=923638)
+
 [Вебинар 26.06.25 "Обзор Infostart Toolkit"](https://rutube.ru/video/6be8aaa1f75646ead64145cf826645bb/)
 
 [Обзор инструмента - Регламентные и фоновые задания](https://rutube.ru/video/2a26254320b66bb3d8e8e1c8077203fb/)
