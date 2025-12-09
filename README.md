@@ -1,7 +1,7 @@
 [![Infostart Toolkit](logo.png)](https://infostart.ru/marketplace/toolkit/)
 
 
-[![Join telegram chat](https://img.shields.io/badge/chat-telegram-blue?style=flat&logo=telegram)](https://t.me/mid8_1c) 
+[![Join telegram chat](https://img.shields.io/badge/chat-telegram-blue?style=flat&logo=telegram)](https://t.me/infostart_toolkit)
 [![Last release](https://img.shields.io/github/v/release/infostart-hub/toolkit?include_prereleases&label=last%20release&style=badge)](https://github.com/infostart-hub/toolkit/releases/latest)
 [![GitHub issues](https://img.shields.io/github/issues-raw/infostart-hub/toolkit?style=badge)](https://github.com/infostart-hub/toolkit/issues)
 
