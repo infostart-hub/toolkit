@@ -75,6 +75,8 @@ Infostart Toolkit - Набор инструментов для анализа и
 
 [Отладка в Infostart Toolkit](https://infostart.ru/1c/articles/1321263/)
 
+[Отладка запросов динамических списков (Infostart Toolkit)](https://infostart.ru/1c/articles/2624939/)
+
 [Структура запроса (Infostart Toolkit)](https://infostart.ru/1c/articles/1392009/)
 
 [Презентация в виде статьи "Работа с СКД" (Infostart Meetup: Практика применения СКД)](https://infostart.ru/1c/articles/1350842/)
