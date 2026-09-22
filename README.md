@@ -116,6 +116,8 @@ Infostart Toolkit - Набор инструментов для анализа и
 
 
 ## Новое в версиях
+[2026.3: Развитие редактора и синтаксис-помощник](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-2026-3-novye-redaktory-i-sintaksis-pomoshchnik_2795857/)
+
 [2026.2 Вывод результатов запросов в ТЗ, Дерево и отладка отчетов на СКД](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-air-novyy-vyvod-rezultatov-zaprosov-i-otladka-otchetov-na-skd_2748684/)
 
 [2026.1 Поддержка 1С 8.5, новые инструменты и обновленное лицензирование](https://infostart.ru/journal/news/mir-1s/infostart-toolkit-air-podderzhka-1s-8-5-novye-instrumenty-i-obnovlennoe-litsenzirovanie_2705014/)
